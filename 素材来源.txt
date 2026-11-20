@@ -2,6 +2,14 @@
 《清明上河图》图像：故宫博物院藏，张择端，北宋。
 https://www.dpm.org.cn/collection/paint/228226.html
 
+北京故宫角楼照片：kallgan，Creative Commons BY-SA 3.0，展示版本缩小尺寸。
+https://commons.wikimedia.org/wiki/File:Sunset_of_the_Forbidden_City_2006.JPG
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Hanzi Writer v3.5.0：David Chanin，MIT License，见 licenses/Hanzi-Writer-LICENSE.txt。
+笔画数据：Hanzi Writer Data 2.0.1、Make Me a Hanzi、Arphic Technology，见 licenses/ARPHICPL.TXT。
+https://github.com/chanind/hanzi-writer-data
+
 课堂音效依照 2026-11-19 更新的音效包选用，以下三项均为 CC0。
 翻页：gynation，https://freesound.org/s/82379/
 轻点：Jummit，https://freesound.org/s/528561/
